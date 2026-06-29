@@ -1,4 +1,4 @@
-# 🎓 simple_student_management
+# 🎓 Simple_Student_Management
 
 **A no-frills student management system — add, view, and check results in seconds.**
 
