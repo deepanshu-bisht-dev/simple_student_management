@@ -16,7 +16,8 @@ student = {
     "Kabir Bisht": 78,
     "Ananya Rao": 96,
     "Diya Nair": 71,
-    "Saanvi Iyer": 85,
+    "Saanvi Jain": 85,
+    "Deepanshu Bisht": 99
     "Aadhya Patel": 60,
     "Myra Kapoor": 93,
     "Kiara Bhatt": 74,
